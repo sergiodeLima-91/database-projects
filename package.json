@@ -1,0 +1,25 @@
+{
+  "name": "database-projects",
+  "version": "1.0.0",
+  "description": "NodeJS and MySQL Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiodeLima-91/database-projects.git"
+  },
+  "keywords": [
+    "express",
+    "express-handlebars",
+    "bootstrap",
+    "mysql"
+  ],
+  "author": "Sergio Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiodeLima-91/database-projects/issues"
+  },
+  "homepage": "https://github.com/sergiodeLima-91/database-projects#readme"
+}
